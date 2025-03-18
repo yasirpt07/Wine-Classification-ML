@@ -22,9 +22,9 @@ The project utilizes the **Wine dataset** from `sklearn.datasets`, which consist
    git clone https://github.com/yasirpt07/Wine-Classification-ML.git
 
 ## 📊 Results
-Random Forest Accuracy: 100%
-KNN Accuracy: 72%
-Best Hyperparameter Combination: { 'n_estimators': 100, 'max_depth': None, 'min_samples_split': 2 }
+**Random Forest Accuracy: 100%**
+**KNN Accuracy: 72%**
+**Best Hyperparameter Combination:** { 'n_estimators': 100, 'max_depth': None, 'min_samples_split': 2 }
 
 ## 🔬 Model Evaluation
 The models are evaluated using:
